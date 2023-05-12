@@ -2,6 +2,7 @@
 Files to replicate our main findings for our Special Topics in Natural Language Processing class
 
 Medical Text Simplification
+
 Made by Zachary Schultz and Nick Hankins
 
 Abstract/Motivations:
